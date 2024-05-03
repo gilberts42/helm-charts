@@ -37,7 +37,7 @@ spec:
                   fieldPath: metadata.name
           envFrom:
             - secretRef:
-                name: exoscale-credentials
+                name: exoscale-csi-driver-credentials
           volumeMounts:
             - name: socket-dir
               mountPath: /var/lib/csi/sockets/pluginproxy/
