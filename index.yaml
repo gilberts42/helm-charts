@@ -3,6 +3,16 @@ entries:
   exoscalea1-csi-driver:
   - apiVersion: v2
     appVersion: 0.29.4
+    created: "2024-05-03T06:11:58.947653546Z"
+    description: A Helm chart for Kubernetes
+    digest: aafa113b43e0253fe17f6c5f8212eaa435090f3cade5634fbc1d39ff3b06d753
+    name: exoscalea1-csi-driver
+    type: application
+    urls:
+    - https://github.com/gilberts42/helm-charts/releases/download/exoscalea1-csi-driver-0.1.8/exoscalea1-csi-driver-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
+    appVersion: 0.29.4
     created: "2024-05-02T15:43:08.599716721Z"
     description: A Helm chart for Kubernetes
     digest: d939357bf118a2ade4e0a706a7bc91a6aff49a97c0211d9b2012ef728fd0d1d7
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/gilberts42/helm-charts/releases/download/exoscalea1-csi-driver-0.1.7/exoscalea1-csi-driver-0.1.7.tgz
     version: 0.1.7
-generated: "2024-05-02T15:43:08.599727831Z"
+generated: "2024-05-03T06:11:58.947661621Z"
